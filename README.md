@@ -1,3 +1,3 @@
 ## alura site 
 
-*este repositório irá armazenar 
+* este repositório irá armazenar 
